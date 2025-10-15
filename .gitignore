@@ -1,0 +1,51 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+*.bak
+
+# --- Virtual Environment ---
+.venv/
+venv/
+env/
+ENV/
+*.env
+*.venv
+
+# --- ChromaDB Local Database ---
+chroma_db/
+chroma/
+*.db
+*.sqlite
+
+# --- System / Editor Files ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# --- Jupyter / Notebooks ---
+.ipynb_checkpoints/
+
+# --- Cache ---
+.cache/
+*.egg-info/
+dist/
+build/
+
+# --- Temporary Uploads ---
+uploads/
+temp/
+tmp/
+
+# --- Ollama Model Cache ---
+~/.ollama/
+ollama_models/
+
+# --- Gradio Cache ---
+gradio_cache/
+.gradio/
