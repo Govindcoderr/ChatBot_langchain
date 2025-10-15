@@ -113,21 +113,11 @@ See [`requirements.txt`](./requirements.txt)
 
 ---
 
-### 🌐 Deployment Options
-
-You can deploy for **free & lifetime** on:
-
-* [Hugging Face Spaces](https://huggingface.co/spaces)
-* [Render](https://render.com)
-* [Railway](https://railway.app)
-* [GitHub Pages + Gradio share link]
-
----
 
 ### 🧑‍💻 Author
 
 **Govind Rajpurohit**
-💼 Software Developer | 💎 Founder of VaveFx
+💼 Software Developer | Gen Ai Developer 
 📍 India
 
 🔗 GitHub: [@Govindcoderr](https://github.com/Govindcoderr)
@@ -139,3 +129,6 @@ You can deploy for **free & lifetime** on:
 This project is licensed under the **MIT License** — you’re free to modify and use it for personal or commercial projects.
 
 ---
+
+<img width="2857" height="1521" alt="image" src="https://github.com/user-attachments/assets/f2ce0008-126d-4fc7-b747-29ad16c7f927" />
+
